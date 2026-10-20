@@ -1,0 +1,26 @@
+{
+  "jacks-or-better-9-6": {
+    "easy": {
+      "chartReturn": 0.99459239,
+      "perfectReturn": 0.99543904,
+      "agreement": 0.97732
+    },
+    "best": {
+      "chartReturn": 0.9954291,
+      "perfectReturn": 0.99543904,
+      "agreement": 0.997719
+    }
+  },
+  "jacks-or-better-8-5": {
+    "easy": {
+      "chartReturn": 0.97198811,
+      "perfectReturn": 0.97298434,
+      "agreement": 0.976337
+    },
+    "best": {
+      "chartReturn": 0.9729567,
+      "perfectReturn": 0.97298434,
+      "agreement": 0.995143
+    }
+  }
+}

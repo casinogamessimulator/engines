@@ -1,0 +1,68 @@
+{
+  "method": "Seeded simulation of 400,000,000 rounds (seed 20261019), both strategies on the same deals, against a Foxwoods house-way dealer who banks; 5% commission on wins; A-2-3-4-5 is the second-highest straight. Confidence intervals are 95% (normal approximation).",
+  "houseWay": {
+    "rounds": 400000000,
+    "win": 0.2912004,
+    "push": 0.4049511,
+    "lose": 0.3038485,
+    "houseEdge": 0.0272081,
+    "ci95": {
+      "win": [
+        0.2911559,
+        0.2912449
+      ],
+      "push": [
+        0.404903,
+        0.4049992
+      ],
+      "lose": [
+        0.3038034,
+        0.3038936
+      ],
+      "houseEdge": [
+        0.0271344,
+        0.0272819
+      ]
+    }
+  },
+  "optimal": {
+    "rounds": 400000000,
+    "win": 0.2923268,
+    "push": 0.4044774,
+    "lose": 0.3031958,
+    "houseEdge": 0.0254854,
+    "ci95": {
+      "win": [
+        0.2922822,
+        0.2923713
+      ],
+      "push": [
+        0.4044293,
+        0.4045255
+      ],
+      "lose": [
+        0.3031508,
+        0.3032409
+      ],
+      "houseEdge": [
+        0.0254116,
+        0.0255591
+      ]
+    }
+  },
+  "differentSettings": 0.1349972,
+  "published": {
+    "houseWay": {
+      "win": 0.291195,
+      "push": 0.404958,
+      "lose": 0.303847,
+      "houseEdge": 0.027212
+    },
+    "optimal": {
+      "win": 0.292486,
+      "push": 0.404529,
+      "lose": 0.302984,
+      "houseEdge": 0.025122
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "method": "Exhaustive enumeration of every deal (1,755 flops up to suit symmetry), so these figures are exact.",
+  "units": "EVs per unit of ante, with the blind equal to the ante; trips side bet excluded.",
+  "optimal": {
+    "expectedValue": -0.0218497137627533,
+    "houseEdge": 0.0218497137627533,
+    "elementOfRisk": 0.005262189569687029,
+    "averagePlayBet": 2.1522095457410173,
+    "averageWager": 4.152209545741018,
+    "raisePreflop": 0.37707390648567085,
+    "betFlop": 0.21284621540924067,
+    "betRiver": 0.21822148897985164,
+    "fold": 0.19185838912523687
+  },
+  "simple": {
+    "expectedValue": -0.02401749330823708,
+    "houseEdge": 0.02401749330823708,
+    "elementOfRisk": 0.005768318847507629,
+    "averagePlayBet": 2.163690313099551,
+    "averageWager": 4.163690313099551,
+    "raisePreflop": 0.37707390648567085,
+    "betFlop": 0.21266860590389988,
+    "betRiver": 0.23005747534906654,
+    "fold": 0.1802000122613627
+  }
+}

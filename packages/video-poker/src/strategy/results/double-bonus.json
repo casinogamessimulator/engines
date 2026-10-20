@@ -1,0 +1,26 @@
+{
+  "double-bonus-10-7": {
+    "easy": {
+      "chartReturn": 0.99976651,
+      "perfectReturn": 1.00172522,
+      "agreement": 0.908607
+    },
+    "best": {
+      "chartReturn": 1.00167173,
+      "perfectReturn": 1.00172522,
+      "agreement": 0.970122
+    }
+  },
+  "double-double-bonus-9-6": {
+    "easy": {
+      "chartReturn": 0.98805716,
+      "perfectReturn": 0.98980783,
+      "agreement": 0.954045
+    },
+    "best": {
+      "chartReturn": 0.98977914,
+      "perfectReturn": 0.98980783,
+      "agreement": 0.994256
+    }
+  }
+}

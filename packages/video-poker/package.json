@@ -1,0 +1,22 @@
+{
+  "name": "@cgs/video-poker",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./returns.json": "./src/returns.json",
+    "./frequencies.json": "./src/frequencies.json"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "returns": "node scripts/compute-returns.ts",
+    "frequencies": "node scripts/compute-frequencies.ts",
+    "verify-strategy": "node scripts/verify-strategy.ts"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "typescript": "7.0.2",
+    "vitest": "5.0.3"
+  }
+}

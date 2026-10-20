@@ -1,0 +1,26 @@
+{
+  "bonus-poker-8-5": {
+    "easy": {
+      "chartReturn": 0.99065043,
+      "perfectReturn": 0.99165973,
+      "agreement": 0.9766
+    },
+    "best": {
+      "chartReturn": 0.99163796,
+      "perfectReturn": 0.99165973,
+      "agreement": 0.995627
+    }
+  },
+  "bonus-poker-deluxe-9-6": {
+    "easy": {
+      "chartReturn": 0.99498851,
+      "perfectReturn": 0.99641711,
+      "agreement": 0.952558
+    },
+    "best": {
+      "chartReturn": 0.99639603,
+      "perfectReturn": 0.99641711,
+      "agreement": 0.993125
+    }
+  }
+}

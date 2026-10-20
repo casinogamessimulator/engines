@@ -1,0 +1,22 @@
+{
+  "name": "@cgs/pai-gow",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./dealer-distribution.json": "./src/dealer-distribution.json",
+    "./hand-frequencies.json": "./src/hand-frequencies.json",
+    "./odds.json": "./src/odds.json"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "dealer-distribution": "node scripts/compute-dealer-distribution.ts",
+    "odds": "node scripts/compute-odds.ts"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "typescript": "7.0.2",
+    "vitest": "5.0.3"
+  }
+}

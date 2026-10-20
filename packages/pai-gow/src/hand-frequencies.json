@@ -1,0 +1,15 @@
+{
+  "hands": 154143080,
+  "fiveAces": 1128,
+  "straightFlush": 210964,
+  "royalFlush": 26132,
+  "naturalRoyalFlush": 4512,
+  "fourOfAKind": 307472,
+  "fullHouse": 4188528,
+  "flush": 6172088,
+  "straight": 11236028,
+  "threeOfAKind": 7470676,
+  "twoPair": 35553816,
+  "pair": 64221960,
+  "highCard": 24780420
+}

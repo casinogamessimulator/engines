@@ -1,0 +1,2521 @@
+{
+  "anteBonus": {
+    "ante-bonus-5-4-1": {
+      "anteBonus": "ante-bonus-5-4-1",
+      "houseEdge": 0.033729809436,
+      "elementOfRisk": 0.0201467240145,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449126576981,
+      "pushProbability": 0.000612068067816,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 35103
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 570240
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 20160
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 239316
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 6,
+          "combinations": 665776
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 5,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 3,
+          "combinations": 968
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 2,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 7,
+          "combinations": 617044,
+          "probability": 0.0015154441482
+        },
+        {
+          "net": 6,
+          "combinations": 931972,
+          "probability": 0.00228889919307
+        },
+        {
+          "net": 5,
+          "combinations": 289104,
+          "probability": 0.00071003196696
+        },
+        {
+          "net": 3,
+          "combinations": 8976452,
+          "probability": 0.0220459345768
+        },
+        {
+          "net": 2,
+          "combinations": 91100696,
+          "probability": 0.223740959559
+        },
+        {
+          "net": 1,
+          "combinations": 80955780,
+          "probability": 0.198825307537
+        },
+        {
+          "net": 0,
+          "combinations": 249216,
+          "probability": 0.000612068067816
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-4-3-1": {
+      "anteBonus": "ante-bonus-4-3-1",
+      "houseEdge": 0.0382546963139,
+      "elementOfRisk": 0.0228494267172,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449126576981,
+      "pushProbability": 0.000612068067816,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 6,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 6,
+          "combinations": 35103
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 6,
+          "combinations": 570240
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 5,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 5,
+          "combinations": 20160
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 5,
+          "combinations": 239316
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 5,
+          "combinations": 665776
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 4,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 4,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 4,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 4,
+          "combinations": 288960
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 2,
+          "combinations": 968
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 1,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 6,
+          "combinations": 617044,
+          "probability": 0.0015154441482
+        },
+        {
+          "net": 5,
+          "combinations": 931972,
+          "probability": 0.00228889919307
+        },
+        {
+          "net": 4,
+          "combinations": 289104,
+          "probability": 0.00071003196696
+        },
+        {
+          "net": 3,
+          "combinations": 8975484,
+          "probability": 0.0220435571937
+        },
+        {
+          "net": 2,
+          "combinations": 91098352,
+          "probability": 0.223735202755
+        },
+        {
+          "net": 1,
+          "combinations": 80959092,
+          "probability": 0.198833441724
+        },
+        {
+          "net": 0,
+          "combinations": 249216,
+          "probability": 0.000612068067816
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-3-2-1": {
+      "anteBonus": "ante-bonus-3-2-1",
+      "houseEdge": 0.0427795831917,
+      "elementOfRisk": 0.0255521294199,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449118442794,
+      "pushProbability": 0.000620202254388,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 5,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 5,
+          "combinations": 35103
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 5,
+          "combinations": 570240
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 4,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 4,
+          "combinations": 20160
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 4,
+          "combinations": 239316
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 4,
+          "combinations": 665776
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 3,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 3,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 3,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 3,
+          "combinations": 288960
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 1,
+          "combinations": 968
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 0,
+          "combinations": 3312
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 5,
+          "combinations": 617044,
+          "probability": 0.0015154441482
+        },
+        {
+          "net": 4,
+          "combinations": 931972,
+          "probability": 0.00228889919307
+        },
+        {
+          "net": 3,
+          "combinations": 9264588,
+          "probability": 0.0227535891607
+        },
+        {
+          "net": 2,
+          "combinations": 91097384,
+          "probability": 0.223732825372
+        },
+        {
+          "net": 1,
+          "combinations": 80956748,
+          "probability": 0.19882768492
+        },
+        {
+          "net": 0,
+          "combinations": 252528,
+          "probability": 0.000620202254388
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-5-3-1": {
+      "anteBonus": "ante-bonus-5-3-1",
+      "houseEdge": 0.0360827506125,
+      "elementOfRisk": 0.0215521294199,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449126576981,
+      "pushProbability": 0.000612068067816,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 35103
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 570240
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 20160
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 239316
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 5,
+          "combinations": 665776
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 4,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 3,
+          "combinations": 968
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 1,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 7,
+          "combinations": 617044,
+          "probability": 0.0015154441482
+        },
+        {
+          "net": 6,
+          "combinations": 266196,
+          "probability": 0.000653770509841
+        },
+        {
+          "net": 5,
+          "combinations": 665920,
+          "probability": 0.00163548234351
+        },
+        {
+          "net": 4,
+          "combinations": 288960,
+          "probability": 0.000709678306675
+        },
+        {
+          "net": 3,
+          "combinations": 8976452,
+          "probability": 0.0220459345768
+        },
+        {
+          "net": 2,
+          "combinations": 91097384,
+          "probability": 0.223732825372
+        },
+        {
+          "net": 1,
+          "combinations": 80959092,
+          "probability": 0.198833441724
+        },
+        {
+          "net": 0,
+          "combinations": 249216,
+          "probability": 0.000612068067816
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-9-8-1": {
+      "anteBonus": "ante-bonus-9-8-1",
+      "houseEdge": 0.0156302619247,
+      "elementOfRisk": 0.00933591320369,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449126576981,
+      "pushProbability": 0.000612068067816,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 11,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 11,
+          "combinations": 35103
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 11,
+          "combinations": 570240
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 10,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 10,
+          "combinations": 20160
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 10,
+          "combinations": 239316
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 10,
+          "combinations": 665776
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 9,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 9,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 9,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 9,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 7,
+          "combinations": 968
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 6,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 11,
+          "combinations": 617044,
+          "probability": 0.0015154441482
+        },
+        {
+          "net": 10,
+          "combinations": 931972,
+          "probability": 0.00228889919307
+        },
+        {
+          "net": 9,
+          "combinations": 289104,
+          "probability": 0.00071003196696
+        },
+        {
+          "net": 7,
+          "combinations": 968,
+          "probability": 0.00000237738303177
+        },
+        {
+          "net": 6,
+          "combinations": 3312,
+          "probability": 0.00000813418657152
+        },
+        {
+          "net": 3,
+          "combinations": 8975484,
+          "probability": 0.0220435571937
+        },
+        {
+          "net": 2,
+          "combinations": 91097384,
+          "probability": 0.223732825372
+        },
+        {
+          "net": 1,
+          "combinations": 80955780,
+          "probability": 0.198825307537
+        },
+        {
+          "net": 0,
+          "combinations": 249216,
+          "probability": 0.000612068067816
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-12.5-10-1": {
+      "anteBonus": "ante-bonus-12.5-10-1",
+      "houseEdge": 0.00332256961704,
+      "elementOfRisk": 0.00198456185234,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449126576981,
+      "pushProbability": 0.000612068067816,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 14.5,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 14.5,
+          "combinations": 35103
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 14.5,
+          "combinations": 570240
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 13.5,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 13.5,
+          "combinations": 20160
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 13.5,
+          "combinations": 239316
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 12.5,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 12.5,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 12.5,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 12,
+          "combinations": 665776
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 11,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 10.5,
+          "combinations": 968
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 8,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 14.5,
+          "combinations": 617044,
+          "probability": 0.0015154441482
+        },
+        {
+          "net": 13.5,
+          "combinations": 266196,
+          "probability": 0.000653770509841
+        },
+        {
+          "net": 12.5,
+          "combinations": 144,
+          "probability": 3.53660285718e-7
+        },
+        {
+          "net": 12,
+          "combinations": 665776,
+          "probability": 0.00163512868322
+        },
+        {
+          "net": 11,
+          "combinations": 288960,
+          "probability": 0.000709678306675
+        },
+        {
+          "net": 10.5,
+          "combinations": 968,
+          "probability": 0.00000237738303177
+        },
+        {
+          "net": 8,
+          "combinations": 3312,
+          "probability": 0.00000813418657152
+        },
+        {
+          "net": 3,
+          "combinations": 8975484,
+          "probability": 0.0220435571937
+        },
+        {
+          "net": 2,
+          "combinations": 91097384,
+          "probability": 0.223732825372
+        },
+        {
+          "net": 1,
+          "combinations": 80955780,
+          "probability": 0.198825307537
+        },
+        {
+          "net": 0,
+          "combinations": 249216,
+          "probability": 0.000612068067816
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-50-10-4-3-0": {
+      "anteBonus": "ante-bonus-50-10-4-3-0",
+      "houseEdge": 0.0679379542324,
+      "elementOfRisk": 0.0405791564469,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449081662125,
+      "pushProbability": 0.000656982924103,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 52,
+          "combinations": 11701
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 51,
+          "combinations": 6720
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 50,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 12,
+          "combinations": 35103
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 11,
+          "combinations": 20160
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 10,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 6,
+          "combinations": 570240
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 5,
+          "combinations": 239316
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 5,
+          "combinations": 665776
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 4,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 4,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 2,
+          "combinations": 968
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 1,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 270504
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 52,
+          "combinations": 11701,
+          "probability": 0.0000287373541888
+        },
+        {
+          "net": 51,
+          "combinations": 6720,
+          "probability": 0.0000165041466669
+        },
+        {
+          "net": 50,
+          "combinations": 3,
+          "probability": 7.36792261913e-9
+        },
+        {
+          "net": 12,
+          "combinations": 35103,
+          "probability": 0.0000862120625664
+        },
+        {
+          "net": 11,
+          "combinations": 20160,
+          "probability": 0.0000495124400006
+        },
+        {
+          "net": 10,
+          "combinations": 9,
+          "probability": 2.21037678574e-8
+        },
+        {
+          "net": 6,
+          "combinations": 570240,
+          "probability": 0.00140049473144
+        },
+        {
+          "net": 5,
+          "combinations": 905092,
+          "probability": 0.0022228826064
+        },
+        {
+          "net": 4,
+          "combinations": 289092,
+          "probability": 0.00071000249527
+        },
+        {
+          "net": 2,
+          "combinations": 96072832,
+          "probability": 0.235952397326
+        },
+        {
+          "net": 1,
+          "combinations": 84941808,
+          "probability": 0.208614889491
+        },
+        {
+          "net": 0,
+          "combinations": 267504,
+          "probability": 0.000656982924103
+        },
+        {
+          "net": -1,
+          "combinations": 132652800,
+          "probability": 0.325791855204
+        },
+        {
+          "net": -2,
+          "combinations": 91397336,
+          "probability": 0.224469499748
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-50-50-8-6-0": {
+      "anteBonus": "ante-bonus-50-50-8-6-0",
+      "houseEdge": 0.0474854655446,
+      "elementOfRisk": 0.0283629402307,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449081662125,
+      "pushProbability": 0.000656982924103,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 52,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 52,
+          "combinations": 35103
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 51,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 51,
+          "combinations": 20160
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 50,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 50,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 10,
+          "combinations": 570240
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 9,
+          "combinations": 239316
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 8,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 8,
+          "combinations": 665776
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 7,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 6,
+          "combinations": 968
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 4,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 270504
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 52,
+          "combinations": 46804,
+          "probability": 0.000114949416755
+        },
+        {
+          "net": 51,
+          "combinations": 26880,
+          "probability": 0.0000660165866674
+        },
+        {
+          "net": 50,
+          "combinations": 12,
+          "probability": 2.94716904765e-8
+        },
+        {
+          "net": 10,
+          "combinations": 570240,
+          "probability": 0.00140049473144
+        },
+        {
+          "net": 9,
+          "combinations": 239316,
+          "probability": 0.000587753923173
+        },
+        {
+          "net": 8,
+          "combinations": 665908,
+          "probability": 0.00163545287182
+        },
+        {
+          "net": 7,
+          "combinations": 288960,
+          "probability": 0.000709678306675
+        },
+        {
+          "net": 6,
+          "combinations": 968,
+          "probability": 0.00000237738303177
+        },
+        {
+          "net": 4,
+          "combinations": 3312,
+          "probability": 0.00000813418657152
+        },
+        {
+          "net": 2,
+          "combinations": 96071864,
+          "probability": 0.235950019943
+        },
+        {
+          "net": 1,
+          "combinations": 84938496,
+          "probability": 0.208606755304
+        },
+        {
+          "net": 0,
+          "combinations": 267504,
+          "probability": 0.000656982924103
+        },
+        {
+          "net": -1,
+          "combinations": 132652800,
+          "probability": 0.325791855204
+        },
+        {
+          "net": -2,
+          "combinations": 91397336,
+          "probability": 0.224469499748
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    },
+    "ante-bonus-10-10-5-4-1": {
+      "anteBonus": "ante-bonus-10-10-5-4-1",
+      "houseEdge": 0.0328248320605,
+      "elementOfRisk": 0.019606183474,
+      "playProbability": 0.674208144796,
+      "dealerQualifiesProbability": 0.69592760181,
+      "winProbability": 0.449126576981,
+      "pushProbability": 0.000612068067816,
+      "lossProbability": 0.550261354951,
+      "events": [
+        {
+          "payClass": 7,
+          "outcome": "win",
+          "net": 12,
+          "combinations": 11701
+        },
+        {
+          "payClass": 6,
+          "outcome": "win",
+          "net": 12,
+          "combinations": 35103
+        },
+        {
+          "payClass": 7,
+          "outcome": "dealer-not-qualified",
+          "net": 11,
+          "combinations": 6720
+        },
+        {
+          "payClass": 6,
+          "outcome": "dealer-not-qualified",
+          "net": 11,
+          "combinations": 20160
+        },
+        {
+          "payClass": 7,
+          "outcome": "tie",
+          "net": 10,
+          "combinations": 3
+        },
+        {
+          "payClass": 6,
+          "outcome": "tie",
+          "net": 10,
+          "combinations": 9
+        },
+        {
+          "payClass": 5,
+          "outcome": "win",
+          "net": 7,
+          "combinations": 570240
+        },
+        {
+          "payClass": 5,
+          "outcome": "dealer-not-qualified",
+          "net": 6,
+          "combinations": 239316
+        },
+        {
+          "payClass": 4,
+          "outcome": "win",
+          "net": 6,
+          "combinations": 665776
+        },
+        {
+          "payClass": 5,
+          "outcome": "tie",
+          "net": 5,
+          "combinations": 132
+        },
+        {
+          "payClass": 4,
+          "outcome": "dealer-not-qualified",
+          "net": 5,
+          "combinations": 288960
+        },
+        {
+          "payClass": 5,
+          "outcome": "lose",
+          "net": 3,
+          "combinations": 968
+        },
+        {
+          "payClass": 3,
+          "outcome": "win",
+          "net": 3,
+          "combinations": 8975484
+        },
+        {
+          "payClass": 4,
+          "outcome": "lose",
+          "net": 2,
+          "combinations": 3312
+        },
+        {
+          "payClass": 3,
+          "outcome": "dealer-not-qualified",
+          "net": 2,
+          "combinations": 4001004
+        },
+        {
+          "payClass": 2,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 12793544
+        },
+        {
+          "payClass": 1,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 36168624
+        },
+        {
+          "payClass": 0,
+          "outcome": "win",
+          "net": 2,
+          "combinations": 38134212
+        },
+        {
+          "payClass": 3,
+          "outcome": "tie",
+          "net": 1,
+          "combinations": 18288
+        },
+        {
+          "payClass": 2,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 6135276
+        },
+        {
+          "payClass": 1,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 20926080
+        },
+        {
+          "payClass": 0,
+          "outcome": "dealer-not-qualified",
+          "net": 1,
+          "combinations": 53876136
+        },
+        {
+          "payClass": 2,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 3288
+        },
+        {
+          "payClass": 1,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 11232
+        },
+        {
+          "payClass": 0,
+          "outcome": "tie",
+          "net": 0,
+          "combinations": 234696
+        },
+        {
+          "payClass": 3,
+          "outcome": "lose",
+          "net": -1,
+          "combinations": 270504
+        },
+        {
+          "payClass": 0,
+          "outcome": "fold",
+          "net": -1,
+          "combinations": 132652800
+        },
+        {
+          "payClass": 2,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 1260596
+        },
+        {
+          "payClass": 1,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 11873520
+        },
+        {
+          "payClass": 0,
+          "outcome": "lose",
+          "net": -2,
+          "combinations": 77992716
+        }
+      ],
+      "netDistribution": [
+        {
+          "net": 12,
+          "combinations": 46804,
+          "probability": 0.000114949416755
+        },
+        {
+          "net": 11,
+          "combinations": 26880,
+          "probability": 0.0000660165866674
+        },
+        {
+          "net": 10,
+          "combinations": 12,
+          "probability": 2.94716904765e-8
+        },
+        {
+          "net": 7,
+          "combinations": 570240,
+          "probability": 0.00140049473144
+        },
+        {
+          "net": 6,
+          "combinations": 905092,
+          "probability": 0.0022228826064
+        },
+        {
+          "net": 5,
+          "combinations": 289092,
+          "probability": 0.00071000249527
+        },
+        {
+          "net": 3,
+          "combinations": 8976452,
+          "probability": 0.0220459345768
+        },
+        {
+          "net": 2,
+          "combinations": 91100696,
+          "probability": 0.223740959559
+        },
+        {
+          "net": 1,
+          "combinations": 80955780,
+          "probability": 0.198825307537
+        },
+        {
+          "net": 0,
+          "combinations": 249216,
+          "probability": 0.000612068067816
+        },
+        {
+          "net": -1,
+          "combinations": 132923304,
+          "probability": 0.32645620605
+        },
+        {
+          "net": -2,
+          "combinations": 91126832,
+          "probability": 0.223805148901
+        }
+      ],
+      "threshold": {
+        "lowestPlayed": "Qd 6c 4c",
+        "highestFolded": "Qd 6c 3c",
+        "separates": true
+      }
+    }
+  },
+  "pairPlus": {
+    "pair-plus-1-3-6-30-40": {
+      "paytable": "pair-plus-1-3-6-30-40",
+      "houseEdge": 0.0727601809955,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-30-40": {
+      "paytable": "pair-plus-1-4-6-30-40",
+      "houseEdge": 0.0231674208145,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-33-35": {
+      "paytable": "pair-plus-1-4-6-33-35",
+      "houseEdge": 0.0269683257919,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-25-40": {
+      "paytable": "pair-plus-1-4-6-25-40",
+      "houseEdge": 0.0349321266968,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-25-35": {
+      "paytable": "pair-plus-1-4-6-25-35",
+      "houseEdge": 0.0457918552036,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-3-6-30-50": {
+      "paytable": "pair-plus-1-3-6-30-50",
+      "houseEdge": 0.0510407239819,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-5-30-40": {
+      "paytable": "pair-plus-1-4-5-30-40",
+      "houseEdge": 0.0557466063348,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-5-25-40": {
+      "paytable": "pair-plus-1-4-5-25-40",
+      "houseEdge": 0.0675113122172,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-32-40": {
+      "paytable": "pair-plus-1-4-6-32-40",
+      "houseEdge": 0.0184615384615,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-38-42": {
+      "paytable": "pair-plus-1-4-6-38-42",
+      "houseEdge": 0,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-3-6-25-40-80": {
+      "paytable": "pair-plus-1-3-6-25-40-80",
+      "houseEdge": 0.0772850678733,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-3-6-30-40-50": {
+      "paytable": "pair-plus-1-3-6-30-40-50",
+      "houseEdge": 0.0709502262443,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-5-30-40-50": {
+      "paytable": "pair-plus-1-4-5-30-40-50",
+      "houseEdge": 0.0539366515837,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-3-6-30-40-200": {
+      "paytable": "pair-plus-1-3-6-30-40-200",
+      "houseEdge": 0.0438009049774,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-3-6-30-50-100": {
+      "paytable": "pair-plus-1-3-6-30-50-100",
+      "houseEdge": 0.0419909502262,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    },
+    "pair-plus-1-4-6-30-40-50": {
+      "paytable": "pair-plus-1-4-6-30-40-50",
+      "houseEdge": 0.0213574660633,
+      "combinations": [
+        16440,
+        3744,
+        1096,
+        720,
+        52,
+        44,
+        3,
+        1
+      ]
+    }
+  }
+}

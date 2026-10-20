@@ -1,0 +1,22 @@
+{
+  "name": "@cgs/blackjack",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./strategies.json": "./src/strategies.json",
+    "./rule-grid.json": "./src/rule-grid.json"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "strategies": "node scripts/compute-strategies.ts",
+    "simulate": "node scripts/simulate.ts",
+    "grid": "node scripts/compute-grid.ts"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "typescript": "7.0.2",
+    "vitest": "5.0.3"
+  }
+}
