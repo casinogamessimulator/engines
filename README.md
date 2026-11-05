@@ -7,7 +7,7 @@ that's feasible (by counting every deal, not by sampling), and is checked by tes
 | Engine | Method | Checked against | Live |
 |---|---|---|---|
 | [Video poker](packages/video-poker) | Exact enumeration | Wizard of Odds' returns for 5 paytables, to 6 decimals. | [site](https://casinogamessimulator.com/video-poker/strategy/) |
-| [Blackjack](packages/blackjack) | Combinatorial analysis | Wizard of Odds' house edge calculator for 22 rule sets (within 0.005 points), dealer bust tables and strategy charts. | [site](https://casinogamessimulator.com/blackjack/strategy/) |
+| [Blackjack](packages/blackjack) | Combinatorial analysis | Wizard of Odds' house edge calculator for 22 rule sets (within 0.005 points), dealer bust tables and strategy charts; card counting tags and the Illustrious 18 and Fab 4 indices as published (Schlesinger, Wong). | [site](https://casinogamessimulator.com/blackjack/strategy/) |
 | [Roulette](packages/roulette) | Combinatorial analysis | 2.70%, 5.26%, 7.69%, 7.89% (five-number bet), 1.35% (la partage). | [site](https://casinogamessimulator.com/roulette/odds/) |
 | [Baccarat](packages/baccarat) | Exact enumeration | Wizard of Odds' outcome counts (exact match): banker 1.06%, player 1.24%, tie 14.36% at 8:1. | [site](https://casinogamessimulator.com/baccarat/odds/) |
 | [Betting systems](packages/betting-systems) | Seeded simulation | Loss per unit wagered converges to the exact house edge (tested). | [site](https://casinogamessimulator.com/roulette/betting-systems/) |

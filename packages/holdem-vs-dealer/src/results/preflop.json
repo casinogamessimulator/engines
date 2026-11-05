@@ -10,11 +10,11 @@
    "check": -0.17947843669186342,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.21517878934715198,
+   "simpleCheck": -0.20756011701908358,
    "optimalFlopBet": 0.14438775510204083,
    "optimalRiverBet": 0.7926617455492836,
    "simpleFlopBet": 0.2816326530612245,
-   "simpleRiverBet": 0.7183673469387755
+   "simpleRiverBet": 0.708009590515207
   },
   {
    "hand": "32o",
@@ -24,11 +24,11 @@
    "check": -0.9258374060413839,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.9327390086749806,
+   "simpleCheck": -0.9325500108601734,
    "optimalFlopBet": 0.30428571428571427,
    "optimalRiverBet": 0.24342488059053408,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.24516868356963506
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.24185901187487022
   },
   {
    "hand": "42o",
@@ -38,11 +38,11 @@
    "check": -0.8725602011163,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.8789647283211773,
+   "simpleCheck": -0.8791141361795187,
    "optimalFlopBet": 0.3103061224489796,
    "optimalRiverBet": 0.24128962223187148,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.24823745964620816
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.245112801827484
   },
   {
    "hand": "52o",
@@ -52,11 +52,11 @@
    "check": -0.8233239267450315,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.8289221511972602,
+   "simpleCheck": -0.8294254494862728,
    "optimalFlopBet": 0.3143367346938776,
    "optimalRiverBet": 0.24199489323944193,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.25130623572278127
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.24834620249579942
   },
   {
    "hand": "62o",
@@ -66,11 +66,11 @@
    "check": -0.8613634621622596,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.8662423223150724,
+   "simpleCheck": -0.8670808663863044,
    "optimalFlopBet": 0.3121938775510204,
    "optimalRiverBet": 0.23374738054333666,
-   "simpleFlopBet": 0.32755102040816325,
-   "simpleRiverBet": 0.2426060525968019
+   "simpleFlopBet": 0.32979591836734695,
+   "simpleRiverBet": 0.23979931658139667
   },
   {
    "hand": "72o",
@@ -80,11 +80,11 @@
    "check": -0.8828064839621269,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.8874598594546724,
+   "simpleCheck": -0.8885571931629154,
    "optimalFlopBet": 0.3053571428571429,
    "optimalRiverBet": 0.23134361607732826,
-   "simpleFlopBet": 0.3242857142857143,
-   "simpleRiverBet": 0.23735505673129567
+   "simpleFlopBet": 0.32653061224489793,
+   "simpleRiverBet": 0.23468122864316865
   },
   {
    "hand": "82o",
@@ -94,11 +94,11 @@
    "check": -0.8200607105146883,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.8240087223210985,
+   "simpleCheck": -0.8250971785288556,
    "optimalFlopBet": 0.30887755102040815,
    "optimalRiverBet": 0.237092119919198,
-   "simpleFlopBet": 0.3242857142857143,
-   "simpleRiverBet": 0.24466593667994488
+   "simpleFlopBet": 0.32653061224489793,
+   "simpleRiverBet": 0.24274575695217956
   },
   {
    "hand": "92o",
@@ -108,11 +108,11 @@
    "check": -0.7582109737904636,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7607342346800521,
+   "simpleCheck": -0.7615582069539054,
    "optimalFlopBet": 0.3106122448979592,
    "optimalRiverBet": 0.28545144329702277,
-   "simpleFlopBet": 0.3242857142857143,
-   "simpleRiverBet": 0.2857805508882554
+   "simpleFlopBet": 0.32653061224489793,
+   "simpleRiverBet": 0.2840906945571938
   },
   {
    "hand": "T2o",
@@ -122,11 +122,11 @@
    "check": -0.6594542085412641,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6615956129571499,
+   "simpleCheck": -0.6621617918408919,
    "optimalFlopBet": 0.3166326530612245,
    "optimalRiverBet": 0.38608440786120185,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.37813551322471634
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.3762077819101739
   },
   {
    "hand": "J2o",
@@ -136,11 +136,11 @@
    "check": -0.5672160913253816,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5698303234253083,
+   "simpleCheck": -0.5700844000903139,
    "optimalFlopBet": 0.3221428571428571,
    "optimalRiverBet": 0.4794068700560705,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5017377617096792
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.49949286375049556
   },
   {
    "hand": "Q2o",
@@ -150,11 +150,11 @@
    "check": -0.45221829997381735,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.45653497900716083,
+   "simpleCheck": -0.4565186118009562,
    "optimalFlopBet": 0.33341836734693875,
    "optimalRiverBet": 0.5157423681776133,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5778506768109649
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5756057788517812
   },
   {
    "hand": "K2o",
@@ -164,11 +164,11 @@
    "check": -0.31129572152074464,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.3183222248252313,
+   "simpleCheck": -0.3180110176411551,
    "optimalFlopBet": 0.3625510204081633,
    "optimalRiverBet": 0.5258492703279276,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6144947516471899
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6122498536880062
   },
   {
    "hand": "A2o",
@@ -178,11 +178,11 @@
    "check": -0.08232740996210668,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.09788937840715295,
+   "simpleCheck": -0.09726860107427043,
    "optimalFlopBet": 0.515,
    "optimalRiverBet": 0.43729766467178915,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.6421022673639298
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.6398573694047461
   },
   {
    "hand": "32s",
@@ -192,11 +192,11 @@
    "check": -0.6492684543332092,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6568605708198678,
+   "simpleCheck": -0.6565526960118278,
    "optimalFlopBet": 0.30607142857142855,
    "optimalRiverBet": 0.2708629103815439,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.2673300892975136
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.2639667541392135
   },
   {
    "hand": "33",
@@ -220,11 +220,11 @@
    "check": -0.7600507447085021,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7654399077238049,
+   "simpleCheck": -0.7657610549700216,
    "optimalFlopBet": 0.32316326530612244,
    "optimalRiverBet": 0.2433047631633597,
-   "simpleFlopBet": 0.33408163265306123,
-   "simpleRiverBet": 0.25655723158828747
+   "simpleFlopBet": 0.3363265306122449,
+   "simpleRiverBet": 0.25362740470841433
   },
   {
    "hand": "53o",
@@ -234,11 +234,11 @@
    "check": -0.7083363844318318,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7131845757028458,
+   "simpleCheck": -0.7138462301944858,
    "optimalFlopBet": 0.32285714285714284,
    "optimalRiverBet": 0.24694047461722896,
-   "simpleFlopBet": 0.33408163265306123,
-   "simpleRiverBet": 0.2596260076648606
+   "simpleFlopBet": 0.3363265306122449,
+   "simpleRiverBet": 0.2568608053767298
   },
   {
    "hand": "63o",
@@ -248,11 +248,11 @@
    "check": -0.7451543183920613,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7494676707225935,
+   "simpleCheck": -0.7504380693605618,
    "optimalFlopBet": 0.31974489795918365,
    "optimalRiverBet": 0.23936991447827974,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.25092582453888124
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.24831391946232703
   },
   {
    "hand": "73o",
@@ -262,11 +262,11 @@
    "check": -0.7670264260723492,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7706926460321465,
+   "simpleCheck": -0.7718840193072716,
    "optimalFlopBet": 0.31948979591836735,
    "optimalRiverBet": 0.2318440974909853,
-   "simpleFlopBet": 0.32755102040816325,
-   "simpleRiverBet": 0.245674828673375
+   "simpleFlopBet": 0.32979591836734695,
+   "simpleRiverBet": 0.243195831524099
   },
   {
    "hand": "83o",
@@ -276,11 +276,11 @@
    "check": -0.7849046073928128,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7885613161195294,
+   "simpleCheck": -0.7896971774132803,
    "optimalFlopBet": 0.31316326530612243,
    "optimalRiverBet": 0.233987426608016,
-   "simpleFlopBet": 0.3242857142857143,
-   "simpleRiverBet": 0.24466593667994488
+   "simpleFlopBet": 0.32653061224489793,
+   "simpleRiverBet": 0.2429496497951632
   },
   {
    "hand": "93o",
@@ -290,11 +290,11 @@
    "check": -0.7086657587599837,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.7109329460570706,
+   "simpleCheck": -0.7117566814857023,
    "optimalFlopBet": 0.3147448979591837,
    "optimalRiverBet": 0.28575874568143633,
-   "simpleFlopBet": 0.3242857142857143,
-   "simpleRiverBet": 0.28883044799788554
+   "simpleFlopBet": 0.32653061224489793,
+   "simpleRiverBet": 0.2872425380883158
   },
   {
    "hand": "T3o",
@@ -304,11 +304,11 @@
    "check": -0.6100154819447472,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6118472343552956,
+   "simpleCheck": -0.6123977042222715,
    "optimalFlopBet": 0.3190816326530612,
    "optimalRiverBet": 0.3869772414053503,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.38115850780645283
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.37923077649191034
   },
   {
    "hand": "J3o",
@@ -318,11 +318,11 @@
    "check": -0.5167116760784991,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5186056080352697,
+   "simpleCheck": -0.5188490415396388,
    "optimalFlopBet": 0.32392857142857145,
    "optimalRiverBet": 0.4900409201608488,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5047607562914157
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5025158583322321
   },
   {
    "hand": "Q3o",
@@ -332,11 +332,11 @@
    "check": -0.40088441066444236,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.404357715471466,
+   "simpleCheck": -0.40433070510462477,
    "optimalFlopBet": 0.3356122448979592,
    "optimalRiverBet": 0.5304435613283242,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5852078102286243
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5829629122694406
   },
   {
    "hand": "K3o",
@@ -346,11 +346,11 @@
    "check": -0.25831658268386826,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.2651413644172664,
+   "simpleCheck": -0.2648195140725536,
    "optimalFlopBet": 0.3712244897959184,
    "optimalRiverBet": 0.5287224131095546,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6224550680586758
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6202101700994922
   },
   {
    "hand": "A3o",
@@ -360,11 +360,11 @@
    "check": -0.023205877565894747,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.04207971948906269,
+   "simpleCheck": -0.04144829899554361,
    "optimalFlopBet": 0.5451530612244898,
    "optimalRiverBet": 0.41445326511733277,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.6449001302648719
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.6426552323056882
   },
   {
    "hand": "42s",
@@ -374,11 +374,11 @@
    "check": -0.599060723339037,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.605962378509557,
+   "simpleCheck": -0.605992494037393,
    "optimalFlopBet": 0.31326530612244896,
    "optimalRiverBet": 0.26790462345900434,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.2701709018482509
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.26699258056599146
   },
   {
    "hand": "43s",
@@ -388,11 +388,11 @@
    "check": -0.47265855643409493,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.4783880312784436,
+   "simpleCheck": -0.47859048517228775,
    "optimalFlopBet": 0.3265816326530612,
    "optimalRiverBet": 0.26919226339934677,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.2776878929184995
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.2747048273518473
   },
   {
    "hand": "44",
@@ -416,11 +416,11 @@
    "check": -0.5977044879118356,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6019898194694019,
+   "simpleCheck": -0.6027865698461707,
    "optimalFlopBet": 0.33010204081632655,
    "optimalRiverBet": 0.2534368215371255,
-   "simpleFlopBet": 0.3373469387755102,
-   "simpleRiverBet": 0.2679457796069399
+   "simpleFlopBet": 0.3395918367346939,
+   "simpleRiverBet": 0.2653550189733618
   },
   {
    "hand": "64o",
@@ -430,11 +430,11 @@
    "check": -0.6311462542604012,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6349470071688587,
+   "simpleCheck": -0.6360283646466744,
    "optimalFlopBet": 0.32693877551020406,
    "optimalRiverBet": 0.24500594687458702,
-   "simpleFlopBet": 0.33408163265306123,
-   "simpleRiverBet": 0.25924559648096057
+   "simpleFlopBet": 0.3363265306122449,
+   "simpleRiverBet": 0.256808133058959
   },
   {
    "hand": "74o",
@@ -444,11 +444,11 @@
    "check": -0.6522036849359765,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6554843985838105,
+   "simpleCheck": -0.6567523060467424,
    "optimalFlopBet": 0.32418367346938776,
    "optimalRiverBet": 0.23992099152334384,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.2539946006154543
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.251690045120731
   },
   {
    "hand": "84o",
@@ -458,11 +458,11 @@
    "check": -0.6705080263737261,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6733964938707241,
+   "simpleCheck": -0.6745628980434716,
    "optimalFlopBet": 0.3223979591836735,
    "optimalRiverBet": 0.23894490173497707,
-   "simpleFlopBet": 0.32755102040816325,
-   "simpleRiverBet": 0.2529857086220242
+   "simpleFlopBet": 0.32979591836734695,
+   "simpleRiverBet": 0.2514438633917952
   },
   {
    "hand": "94o",
@@ -472,11 +472,11 @@
    "check": -0.6746778117408486,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6765700845892137,
+   "simpleCheck": -0.677390308529994,
    "optimalFlopBet": 0.3169387755102041,
    "optimalRiverBet": 0.28449928259925616,
-   "simpleFlopBet": 0.3242857142857143,
-   "simpleRiverBet": 0.28883044799788554
+   "simpleFlopBet": 0.32653061224489793,
+   "simpleRiverBet": 0.2873240952255093
   },
   {
    "hand": "T4o",
@@ -486,11 +486,11 @@
    "check": -0.5616517848919065,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.563026651285076,
+   "simpleCheck": -0.5635614327305222,
    "optimalFlopBet": 0.3224489795918367,
    "optimalRiverBet": 0.3883395004625347,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.3841815023881893
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.38225377107364683
   },
   {
    "hand": "J4o",
@@ -500,11 +500,11 @@
    "check": -0.4670230198490407,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.46816095840124516,
+   "simpleCheck": -0.4683937693402144,
    "optimalFlopBet": 0.3281122448979592,
    "optimalRiverBet": 0.49756008231229587,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5077837508731522
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5055388529139685
   },
   {
    "hand": "Q4o",
@@ -514,11 +514,11 @@
    "check": -0.35034345298403047,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.35302747266316054,
+   "simpleCheck": -0.3529898397309194,
    "optimalFlopBet": 0.3407142857142857,
    "optimalRiverBet": 0.5429532839962997,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5930137910853518
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5907688931261681
   },
   {
    "hand": "K4o",
@@ -528,11 +528,11 @@
    "check": -0.20601432408244882,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.2126730076635257,
+   "simpleCheck": -0.21234053475341305,
    "optimalFlopBet": 0.3807142857142857,
    "optimalRiverBet": 0.531603673846967,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6299665370310936
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.62772163907191
   },
   {
    "hand": "A4o",
@@ -542,11 +542,11 @@
    "check": 0.03373172482628013,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.011479832591237376,
+   "simpleCheck": 0.012121875650156343,
    "optimalFlopBet": 0.5608673469387755,
    "optimalRiverBet": 0.407215352375918,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.6477093205459797
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.645464422586796
   },
   {
    "hand": "52s",
@@ -556,11 +556,11 @@
    "check": -0.5523983299456076,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.558378550652173,
+   "simpleCheck": -0.5587638455292413,
    "optimalFlopBet": 0.31785714285714284,
    "optimalRiverBet": 0.2680745341614907,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.2730117143989881
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.269998017708471
   },
   {
    "hand": "53s",
@@ -570,11 +570,11 @@
    "check": -0.42365660780052217,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.42874153612051724,
+   "simpleCheck": -0.429285847964056,
    "optimalFlopBet": 0.3270408163265306,
    "optimalRiverBet": 0.27215522286620475,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.28052870546923675
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.2777102644943269
   },
   {
    "hand": "54s",
@@ -584,11 +584,11 @@
    "check": -0.2989838271136672,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.3033904996556972,
+   "simpleCheck": -0.3040704763277778,
    "optimalFlopBet": 0.33790816326530615,
    "optimalRiverBet": 0.275476835507561,
-   "simpleFlopBet": 0.3455612244897959,
-   "simpleRiverBet": 0.28804569653948536
+   "simpleFlopBet": 0.34780612244897957,
+   "simpleRiverBet": 0.2854021219958844
   },
   {
    "hand": "55",
@@ -612,11 +612,11 @@
    "check": -0.5205721469256556,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5240339938683404,
+   "simpleCheck": -0.5252015271081942,
    "optimalFlopBet": 0.3320408163265306,
    "optimalRiverBet": 0.25253034793936074,
-   "simpleFlopBet": 0.3373469387755102,
-   "simpleRiverBet": 0.2675653684230399
+   "simpleFlopBet": 0.3395918367346939,
+   "simpleRiverBet": 0.2652819573712926
   },
   {
    "hand": "75o",
@@ -626,11 +626,11 @@
    "check": -0.5386155017104535,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5416112485080372,
+   "simpleCheck": -0.5429345455727773,
    "optimalFlopBet": 0.3296938775510204,
    "optimalRiverBet": 0.24669231059676414,
-   "simpleFlopBet": 0.33408163265306123,
-   "simpleRiverBet": 0.26231437255753365
+   "simpleFlopBet": 0.3363265306122449,
+   "simpleRiverBet": 0.26016386943306463
   },
   {
    "hand": "85o",
@@ -640,11 +640,11 @@
    "check": -0.5561678847414278,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5588318789377663,
+   "simpleCheck": -0.560012983103706,
    "optimalFlopBet": 0.3273469387755102,
    "optimalRiverBet": 0.246238837810795,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.2613054805641035
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.2599176877041288
   },
   {
    "hand": "95o",
@@ -654,11 +654,11 @@
    "check": -0.5605232215584073,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5620260511627632,
+   "simpleCheck": -0.5628344823282381,
    "optimalFlopBet": 0.3251530612244898,
    "optimalRiverBet": 0.2894243802979101,
-   "simpleFlopBet": 0.32755102040816325,
-   "simpleRiverBet": 0.2971502199399649
+   "simpleFlopBet": 0.32979591836734695,
+   "simpleRiverBet": 0.2956959731163511
   },
   {
    "hand": "T5o",
@@ -668,11 +668,11 @@
    "check": -0.5272588053218091,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5282963447650245,
+   "simpleCheck": -0.5288129978254863,
    "optimalFlopBet": 0.3262244897959184,
    "optimalRiverBet": 0.38555277615208894,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.3841815023881893
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.38225377107364683
   },
   {
    "hand": "J5o",
@@ -682,11 +682,11 @@
    "check": -0.41585453427018776,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.4165118182333063,
+   "simpleCheck": -0.4167328692921398,
    "optimalFlopBet": 0.33341836734693875,
    "optimalRiverBet": 0.5011693160150277,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5108067454548887
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.508561847495705
   },
   {
    "hand": "Q5o",
@@ -696,11 +696,11 @@
    "check": -0.29752454923605975,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.29936107726245825,
+   "simpleCheck": -0.29931168445008144,
    "optimalFlopBet": 0.3486734693877551,
    "optimalRiverBet": 0.5577056863448432,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6008197719420794
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5985748739828957
   },
   {
    "hand": "K5o",
@@ -710,11 +710,11 @@
    "check": -0.1510997015883695,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.15751596207120191,
+   "simpleCheck": -0.15717172928095355,
    "optimalFlopBet": 0.39464285714285713,
    "optimalRiverBet": 0.5338211973040835,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6374780060035115
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6352331080443279
   },
   {
    "hand": "A5o",
@@ -724,11 +724,11 @@
    "check": 0.09355643962515907,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.06737004043340769,
+   "simpleCheck": 0.06802384337246238,
    "optimalFlopBet": 0.5764795918367347,
    "optimalRiverBet": 0.40001944533595124,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.6505185108270876
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.6482736128679039
   },
   {
    "hand": "62s",
@@ -738,11 +738,11 @@
    "check": -0.6096730622981118,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6149046538751177,
+   "simpleCheck": -0.6156292209031736,
    "optimalFlopBet": 0.3158673469387755,
    "optimalRiverBet": 0.2606635956880439,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.26514546244029524
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.2622846381845985
   },
   {
    "hand": "63s",
@@ -752,11 +752,11 @@
    "check": -0.4798224362601262,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.48429074533970795,
+   "simpleCheck": -0.4851478826189742,
    "optimalFlopBet": 0.32474489795918365,
    "optimalRiverBet": 0.26473678000339823,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.2726624535105439
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.26999688497045443
   },
   {
    "hand": "64s",
@@ -766,11 +766,11 @@
    "check": -0.35184872812971796,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.35579323941333324,
+   "simpleCheck": -0.3567619482407377,
    "optimalFlopBet": 0.33698979591836736,
    "optimalRiverBet": 0.2663962411976817,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.2801794445807925
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.2776887424720119
   },
   {
    "hand": "65s",
@@ -780,11 +780,11 @@
    "check": -0.2268882933909695,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.23070099887851309,
+   "simpleCheck": -0.23175657598278848,
    "optimalFlopBet": 0.34831632653061223,
    "optimalRiverBet": 0.2687472389510846,
-   "simpleFlopBet": 0.3455612244897959,
-   "simpleRiverBet": 0.2876964356510412
+   "simpleFlopBet": 0.34780612244897957,
+   "simpleRiverBet": 0.2853602106892711
   },
   {
    "hand": "66",
@@ -808,11 +808,11 @@
    "check": -0.43092264867710883,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.4337322757488609,
+   "simpleCheck": -0.43508737400434905,
    "optimalFlopBet": 0.33540816326530615,
    "optimalRiverBet": 0.24950187845721084,
-   "simpleFlopBet": 0.3373469387755102,
-   "simpleRiverBet": 0.2670490286771508
+   "simpleFlopBet": 0.3395918367346939,
+   "simpleRiverBet": 0.2650321886386377
   },
   {
    "hand": "86o",
@@ -822,11 +822,11 @@
    "check": -0.4462643042976729,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.4488540863237903,
+   "simpleCheck": -0.450032630530417,
    "optimalFlopBet": 0.3339795918367347,
    "optimalRiverBet": 0.24813957220260907,
-   "simpleFlopBet": 0.33408163265306123,
-   "simpleRiverBet": 0.2660401366837207
+   "simpleFlopBet": 0.3363265306122449,
+   "simpleRiverBet": 0.2647860069097019
   },
   {
    "hand": "96o",
@@ -836,11 +836,11 @@
    "check": -0.450032520164739,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.45151315396789166,
+   "simpleCheck": -0.45230557448219666,
    "optimalFlopBet": 0.33198979591836736,
    "optimalRiverBet": 0.2905708527629368,
-   "simpleFlopBet": 0.33081632653061227,
-   "simpleRiverBet": 0.30188487605958203
+   "simpleFlopBet": 0.3330612244897959,
+   "simpleRiverBet": 0.3004623459004323
   },
   {
    "hand": "T6o",
@@ -850,11 +850,11 @@
    "check": -0.416728887689407,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.41751405672576547,
+   "simpleCheck": -0.4180045945970685,
    "optimalFlopBet": 0.33341836734693875,
    "optimalRiverBet": 0.38815882874889085,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.38889935622722727
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.3869625630085522
   },
   {
    "hand": "J6o",
@@ -864,11 +864,11 @@
    "check": -0.38289484672853247,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.38341382423796194,
+   "simpleCheck": -0.3836218954349323,
    "optimalFlopBet": 0.33591836734693875,
    "optimalRiverBet": 0.4947594819611471,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5025377579338859
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5002928599747022
   },
   {
    "hand": "Q6o",
@@ -878,11 +878,11 @@
    "check": -0.2487299975915015,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.2503601776034048,
+   "simpleCheck": -0.25029780492916476,
    "optimalFlopBet": 0.3535204081632653,
    "optimalRiverBet": 0.5574769204629123,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6000013687251033
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5977564707659196
   },
   {
    "hand": "K6o",
@@ -892,11 +892,11 @@
    "check": -0.10298990518753966,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.10895172776872922,
+   "simpleCheck": -0.10859451511661766,
    "optimalFlopBet": 0.3948979591836735,
    "optimalRiverBet": 0.5429466763578698,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6448592101040231
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6426143121448394
   },
   {
    "hand": "A6o",
@@ -906,11 +906,11 @@
    "check": 0.07090996596827838,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.0512315488132853,
+   "simpleCheck": 0.0518967998434762,
    "optimalFlopBet": 0.5222448979591837,
    "optimalRiverBet": 0.461317563102947,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6562446430931299
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6539997451339463
   },
   {
    "hand": "72s",
@@ -920,11 +920,11 @@
    "check": -0.650352358564596,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.6553148622188202,
+   "simpleCheck": -0.6563069748629415,
    "optimalFlopBet": 0.3125,
    "optimalRiverBet": 0.25600313390851254,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.26046928392078383
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.2577409428156091
   },
   {
    "hand": "73s",
@@ -934,11 +934,11 @@
    "check": -0.5208795897581414,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5246928750588061,
+   "simpleCheck": -0.5257798304840395,
    "optimalFlopBet": 0.32596938775510204,
    "optimalRiverBet": 0.2569392002869603,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.2679862749910325
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.265453189601465
   },
   {
    "hand": "74s",
@@ -948,11 +948,11 @@
    "check": -0.39210406615762106,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.3955574461220028,
+   "simpleCheck": -0.39672158663033513,
    "optimalFlopBet": 0.33438775510204083,
    "optimalRiverBet": 0.26179992070833885,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.2755032660612811
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.2731450471030225
   },
   {
    "hand": "75s",
@@ -962,11 +962,11 @@
    "check": -0.2641652142257402,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.26766615702990754,
+   "simpleCheck": -0.26888637708047647,
    "optimalFlopBet": 0.34448979591836737,
    "optimalRiverBet": 0.26451580169533123,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.2830202571315298
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.2808165153202817
   },
   {
    "hand": "76s",
@@ -976,11 +976,11 @@
    "check": -0.14096196650947543,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.14476276337350738,
+   "simpleCheck": -0.14601557152449185,
    "optimalFlopBet": 0.35551020408163264,
    "optimalRiverBet": 0.2628952783703676,
-   "simpleFlopBet": 0.3455612244897959,
-   "simpleRiverBet": 0.2872197417357322
+   "simpleFlopBet": 0.34780612244897957,
+   "simpleRiverBet": 0.2851500877871963
   },
   {
    "hand": "77",
@@ -1004,11 +1004,11 @@
    "check": -0.3401965668026524,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.342434674436029,
+   "simpleCheck": -0.34359032803825984,
    "optimalFlopBet": 0.33846938775510205,
    "optimalRiverBet": 0.2526215333496951,
-   "simpleFlopBet": 0.3373469387755102,
-   "simpleRiverBet": 0.2691578092846759
+   "simpleFlopBet": 0.3395918367346939,
+   "simpleRiverBet": 0.26802601521644737
   },
   {
    "hand": "97o",
@@ -1018,11 +1018,11 @@
    "check": -0.3419554020638334,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.3434676500320084,
+   "simpleCheck": -0.3442323650425606,
    "optimalFlopBet": 0.33698979591836736,
    "optimalRiverBet": 0.29318469293360266,
-   "simpleFlopBet": 0.33408163265306123,
-   "simpleRiverBet": 0.3050025486605373
+   "simpleFlopBet": 0.3363265306122449,
+   "simpleRiverBet": 0.303600407785686
   },
   {
    "hand": "T7o",
@@ -1032,11 +1032,11 @@
    "check": -0.30584546292657167,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.30674302288683813,
+   "simpleCheck": -0.30720998736444094,
    "optimalFlopBet": 0.3407142857142857,
    "optimalRiverBet": 0.388048953161283,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.39201282825803774
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.39007603503936267
   },
   {
    "hand": "J7o",
@@ -1046,11 +1046,11 @@
    "check": -0.2698291626548862,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.2705364006982548,
+   "simpleCheck": -0.2707236485377096,
    "optimalFlopBet": 0.34474489795918367,
    "optimalRiverBet": 0.4935029451188431,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.5056512299646964
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.5034063320055127
   },
   {
    "hand": "Q7o",
@@ -1060,11 +1060,11 @@
    "check": -0.20938796753809308,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.21109451249453892,
+   "simpleCheck": -0.2110166476256076,
    "optimalFlopBet": 0.3634183673469388,
    "optimalRiverBet": 0.5548814872850157,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.5978760690215031
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.5956311710623194
   },
   {
    "hand": "K7o",
@@ -1074,11 +1074,11 @@
    "check": -0.0494372348244094,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.05575545854817693,
+   "simpleCheck": -0.05538275370137403,
    "optimalFlopBet": 0.4166326530612245,
    "optimalRiverBet": 0.5339745889104948,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6442093016670127
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6419644037078291
   },
   {
    "hand": "A7o",
@@ -1088,11 +1088,11 @@
    "check": 0.13919819168101183,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.1161281914273853,
+   "simpleCheck": 0.11680893465226755,
    "optimalFlopBet": 0.5585714285714286,
    "optimalRiverBet": 0.42493307406218733,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6590198512337405
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6567749532745568
   },
   {
    "hand": "82s",
@@ -1102,11 +1102,11 @@
    "check": -0.5887118262520998,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5929997796977116,
+   "simpleCheck": -0.5939985449369948,
    "optimalFlopBet": 0.31801020408163266,
    "optimalRiverBet": 0.26003856028998096,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.2672831750646605
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.26530848231984744
   },
   {
    "hand": "83s",
@@ -1116,11 +1116,11 @@
    "check": -0.5577780026091114,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5616934069593974,
+   "simpleCheck": -0.5627400604146012,
    "optimalFlopBet": 0.3218367346938775,
    "optimalRiverBet": 0.2577624648379241,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.2672831750646605
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.2655123751628311
   },
   {
    "hand": "84s",
@@ -1130,11 +1130,11 @@
    "check": -0.4295248249833951,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.43258514886065436,
+   "simpleCheck": -0.43366307847109353,
    "optimalFlopBet": 0.3323979591836735,
    "optimalRiverBet": 0.26133710283373296,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.2748001661349091
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.2732042326643886
   },
   {
    "hand": "85s",
@@ -1144,11 +1144,11 @@
    "check": -0.3007403171876213,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.30405288494451965,
+   "simpleCheck": -0.3051462246547485,
    "optimalFlopBet": 0.34494897959183674,
    "optimalRiverBet": 0.26263805244577015,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.2823171572051577
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.28087570088164776
   },
   {
    "hand": "86s",
@@ -1158,11 +1158,11 @@
    "check": -0.17497693638608136,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.17916439623252098,
+   "simpleCheck": -0.1802559062562036,
    "optimalFlopBet": 0.3601020408163265,
    "optimalRiverBet": 0.2578818271064207,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.2865166418093602
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.2852092733485624
   },
   {
    "hand": "87s",
@@ -1172,11 +1172,11 @@
    "check": -0.05275362685931603,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.05777026166057486,
+   "simpleCheck": -0.058839881236042196,
    "optimalFlopBet": 0.37479591836734694,
    "optimalRiverBet": 0.25491292076497574,
-   "simpleFlopBet": 0.3455612244897959,
-   "simpleRiverBet": 0.28923223961184846
+   "simpleFlopBet": 0.34780612244897957,
+   "simpleRiverBet": 0.2880472068568408
   },
   {
    "hand": "88",
@@ -1200,11 +1200,11 @@
    "check": -0.2361106637844777,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.2377684919481206,
+   "simpleCheck": -0.23848624266795274,
    "optimalFlopBet": 0.3442857142857143,
    "optimalRiverBet": 0.2898692631539202,
-   "simpleFlopBet": 0.3373469387755102,
-   "simpleRiverBet": 0.30349865015386357
+   "simpleFlopBet": 0.3395918367346939,
+   "simpleRiverBet": 0.30209650927901227
   },
   {
    "hand": "T8o",
@@ -1214,11 +1214,11 @@
    "check": -0.19346150049457173,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.19529796158645107,
+   "simpleCheck": -0.19573286986422972,
    "optimalFlopBet": 0.3714795918367347,
    "optimalRiverBet": 0.36606062036285375,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.39054437501179934
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.38860758179312427
   },
   {
    "hand": "J8o",
@@ -1228,11 +1228,11 @@
    "check": -0.15494399397131656,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.15692967732603652,
+   "simpleCheck": -0.1570932638129678,
    "optimalFlopBet": 0.37081632653061225,
    "optimalRiverBet": 0.4742442277558572,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.504182776718458
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.5019378787592743
   },
   {
    "hand": "Q8o",
@@ -1242,11 +1242,11 @@
    "check": -0.09256288760283078,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.09579304242370848,
+   "simpleCheck": -0.09569151620225362,
    "optimalFlopBet": 0.3939285714285714,
    "optimalRiverBet": 0.5271591402518454,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.5920734769393419
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.5898285789801582
   },
   {
    "hand": "K8o",
@@ -1256,11 +1256,11 @@
    "check": -0.0039536710627962116,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.011488568785516056,
+   "simpleCheck": -0.01109576069936847,
    "optimalFlopBet": 0.44112244897959185,
    "optimalRiverBet": 0.5185799241065528,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6420840019634125
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6398391040042289
   },
   {
    "hand": "A8o",
@@ -1270,11 +1270,11 @@
    "check": 0.1994680721866859,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.17244296358971925,
+   "simpleCheck": 0.17314381005394616,
    "optimalFlopBet": 0.6270408163265306,
    "optimalRiverBet": 0.3562151447072816,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6590198512337405
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6567749532745568
   },
   {
    "hand": "92s",
@@ -1284,11 +1284,11 @@
    "check": -0.5279027859538961,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.5316782390920094,
+   "simpleCheck": -0.5324288451259179,
    "optimalFlopBet": 0.3330102040816327,
    "optimalRiverBet": 0.29403679510657177,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.3051270082501086
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.3033967981272065
   },
   {
    "hand": "93s",
@@ -1298,11 +1298,11 @@
    "check": -0.4825009247356611,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.48598844173388245,
+   "simpleCheck": -0.48673921167154943,
    "optimalFlopBet": 0.34311224489795916,
    "optimalRiverBet": 0.2907905095433178,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.30794894183390287
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.3063206781324926
   },
   {
    "hand": "94s",
@@ -1312,11 +1312,11 @@
    "check": -0.45247150501217503,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.4556661936436616,
+   "simpleCheck": -0.45641383224722065,
    "optimalFlopBet": 0.3539795918367347,
    "optimalRiverBet": 0.283708065094678,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.30794894183390287
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.306402235269686
   },
   {
    "hand": "95s",
@@ -1326,11 +1326,11 @@
    "check": -0.32348703019738434,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.3271389522478461,
+   "simpleCheck": -0.3278754566946056,
    "optimalFlopBet": 0.38137755102040816,
    "optimalRiverBet": 0.27512998168740205,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.3154659329041515
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.3139717570654534
   },
   {
    "hand": "96s",
@@ -1340,11 +1340,11 @@
    "check": -0.19658492870138833,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.20175009992503715,
+   "simpleCheck": -0.20247119098249006,
    "optimalFlopBet": 0.3905612244897959,
    "optimalRiverBet": 0.273506768109649,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.3196654175083539
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.31820338311087615
   },
   {
    "hand": "97s",
@@ -1354,11 +1354,11 @@
    "check": -0.07168506298042442,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.07880718830015117,
+   "simpleCheck": -0.079501402812127,
    "optimalFlopBet": 0.3983673469387755,
    "optimalRiverBet": 0.2735783193943627,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.3223810153108422
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.3209393701976628
   },
   {
    "hand": "98s",
@@ -1368,11 +1368,11 @@
    "check": 0.051068794383450127,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": 0.041893588559803706,
+   "simpleCheck": 0.04124479627020264,
    "optimalFlopBet": 0.4142857142857143,
    "optimalRiverBet": 0.2651399875398818,
-   "simpleFlopBet": 0.3455612244897959,
-   "simpleRiverBet": 0.32087150031150297
+   "simpleFlopBet": 0.34780612244897957,
+   "simpleRiverBet": 0.31942985519832356
   },
   {
    "hand": "99",
@@ -1396,11 +1396,11 @@
    "check": -0.07945994912976544,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.08410810182285007,
+   "simpleCheck": -0.08449754997729757,
    "optimalFlopBet": 0.4051530612244898,
    "optimalRiverBet": 0.33493595310464613,
-   "simpleFlopBet": 0.3455612244897959,
-   "simpleRiverBet": 0.38458744737487965
+   "simpleFlopBet": 0.34780612244897957,
+   "simpleRiverBet": 0.3826506541562046
   },
   {
    "hand": "J9o",
@@ -1410,11 +1410,11 @@
    "check": -0.03854835027386897,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.04435459000127957,
+   "simpleCheck": -0.044489795536974075,
    "optimalFlopBet": 0.42,
    "optimalRiverBet": 0.42772192225641414,
-   "simpleFlopBet": 0.3423469387755102,
-   "simpleRiverBet": 0.4982258490815383
+   "simpleFlopBet": 0.3445918367346939,
+   "simpleRiverBet": 0.4959809511223546
   },
   {
    "hand": "Q9o",
@@ -1424,11 +1424,11 @@
    "check": 0.026186429798561422,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.017781576597785134,
+   "simpleCheck": 0.01791047059925083,
    "optimalFlopBet": 0.4505612244897959,
    "optimalRiverBet": 0.468457494005928,
-   "simpleFlopBet": 0.3391326530612245,
-   "simpleRiverBet": 0.5813335630274311
+   "simpleFlopBet": 0.3413775510204082,
+   "simpleRiverBet": 0.5790886650682474
   },
   {
    "hand": "K9o",
@@ -1438,11 +1438,11 @@
    "check": 0.116227671426264,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.10273033931987283,
+   "simpleCheck": 0.10315051518603124,
    "optimalFlopBet": 0.538826530612245,
    "optimalRiverBet": 0.4180657554418622,
-   "simpleFlopBet": 0.33591836734693875,
-   "simpleRiverBet": 0.6316385999358115
+   "simpleFlopBet": 0.33816326530612245,
+   "simpleRiverBet": 0.6293937019766278
   },
   {
    "hand": "A9o",
@@ -1452,11 +1452,11 @@
    "check": 0.2524521103061806,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.2199142513984261,
+   "simpleCheck": 0.22064097005662356,
    "optimalFlopBet": 0.7261224489795919,
    "optimalRiverBet": 0.2555459797239895,
-   "simpleFlopBet": 0.3327040816326531,
-   "simpleRiverBet": 0.6562446430931299
+   "simpleFlopBet": 0.3349489795918367,
+   "simpleRiverBet": 0.6539997451339463
   },
   {
    "hand": "T2s",
@@ -1466,11 +1466,11 @@
    "check": -0.42984136790701477,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.4350719719138181,
+   "simpleCheck": -0.43557848682600897,
    "optimalFlopBet": 0.36331632653061224,
    "optimalRiverBet": 0.3658450225603655,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.32706417904812246
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.3251215805471125
   },
   {
    "hand": "T3s",
@@ -1480,11 +1480,11 @@
    "check": -0.3842501441189825,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.38784515652475215,
+   "simpleCheck": -0.38833626019297357,
    "optimalFlopBet": 0.374030612244898,
    "optimalRiverBet": 0.3611533632879609,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.32963379523872455
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.3276911967377145
   },
   {
    "hand": "T4s",
@@ -1494,11 +1494,11 @@
    "check": -0.33938434740083345,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.34146700223553667,
+   "simpleCheck": -0.3419427152550253,
    "optimalFlopBet": 0.39285714285714285,
    "optimalRiverBet": 0.351568134191697,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.3322034114293266
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.33026081292831655
   },
   {
    "hand": "T5s",
@@ -1508,11 +1508,11 @@
    "check": -0.30800359305833735,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.30926076349021375,
+   "simpleCheck": -0.3097187626038558,
    "optimalFlopBet": 0.40938775510204084,
    "optimalRiverBet": 0.3398821008514414,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.3322034114293266
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.33026081292831655
   },
   {
    "hand": "T6s",
@@ -1522,11 +1522,11 @@
    "check": -0.18096044889797366,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.1816522680695074,
+   "simpleCheck": -0.18208467459812114,
    "optimalFlopBet": 0.41918367346938773,
    "optimalRiverBet": 0.339802667598029,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.3361913572089335
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.3342401215805471
   },
   {
    "hand": "T7s",
@@ -1536,11 +1536,11 @@
    "check": -0.05343486160477703,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.05439571907029288,
+   "simpleCheck": -0.054804983847041466,
    "optimalFlopBet": 0.4246938775510204,
    "optimalRiverBet": 0.34003091430836907,
-   "simpleFlopBet": 0.43081632653061225,
-   "simpleRiverBet": 0.338838565953671
+   "simpleFlopBet": 0.4330612244897959,
+   "simpleRiverBet": 0.3368873303252846
   },
   {
    "hand": "T8s",
@@ -1550,11 +1550,11 @@
    "check": 0.07541122037074859,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": 0.07342801507113651,
+   "simpleCheck": 0.07304996509298083,
    "optimalFlopBet": 0.44566326530612244,
    "optimalRiverBet": 0.3248350922237535,
-   "simpleFlopBet": 0.43357142857142855,
-   "simpleRiverBet": 0.3376582529403991
+   "simpleFlopBet": 0.43581632653061225,
+   "simpleRiverBet": 0.3357070173120127
   },
   {
    "hand": "T9s",
@@ -1564,11 +1564,11 @@
    "check": 0.20548471814369793,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": 0.20112666366128767,
+   "simpleCheck": 0.2007925960982324,
    "optimalFlopBet": 0.4771938775510204,
    "optimalRiverBet": 0.296557561970209,
-   "simpleFlopBet": 0.4363265306122449,
-   "simpleRiverBet": 0.33275406369763444
+   "simpleFlopBet": 0.43857142857142856,
+   "simpleRiverBet": 0.33080282806924804
   },
   {
    "hand": "TT",
@@ -1592,11 +1592,11 @@
    "check": 0.11028687186196767,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.09762907316095501,
+   "simpleCheck": 0.09753051427450132,
    "optimalFlopBet": 0.46596938775510205,
    "optimalRiverBet": 0.3809235590628481,
-   "simpleFlopBet": 0.35377551020408166,
-   "simpleRiverBet": 0.48546064679340745
+   "simpleFlopBet": 0.3560204081632653,
+   "simpleRiverBet": 0.4832157488342238
   },
   {
    "hand": "QTo",
@@ -1606,11 +1606,11 @@
    "check": 0.17589602652094394,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.15743344739852602,
+   "simpleCheck": 0.157595852043057,
    "optimalFlopBet": 0.5087244897959183,
    "optimalRiverBet": 0.4065155090713436,
-   "simpleFlopBet": 0.35061224489795917,
-   "simpleRiverBet": 0.56307311823897
+   "simpleFlopBet": 0.35285714285714287,
+   "simpleRiverBet": 0.5608282202797863
   },
   {
    "hand": "KTo",
@@ -1620,11 +1620,11 @@
    "check": 0.26936643211933947,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.24244535287554317,
+   "simpleCheck": 0.24289768848979898,
    "optimalFlopBet": 0.6031122448979592,
    "optimalRiverBet": 0.35236204194906456,
-   "simpleFlopBet": 0.34744897959183674,
-   "simpleRiverBet": 0.613191206177198
+   "simpleFlopBet": 0.3496938775510204,
+   "simpleRiverBet": 0.6109463082180143
   },
   {
    "hand": "ATo",
@@ -1634,11 +1634,11 @@
    "check": 0.4096371163159851,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.3598551685271984,
+   "simpleCheck": 0.3606140469334932,
    "optimalFlopBet": 0.8020408163265306,
    "optimalRiverBet": 0.18112008910872396,
-   "simpleFlopBet": 0.3442857142857143,
-   "simpleRiverBet": 0.6422233759368687
+   "simpleFlopBet": 0.34653061224489795,
+   "simpleRiverBet": 0.639978477977685
   },
   {
    "hand": "J2s",
@@ -1648,11 +1648,11 @@
    "check": -0.3362202660561323,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.33986700139647147,
+   "simpleCheck": -0.340074132935769,
    "optimalFlopBet": 0.3953061224489796,
    "optimalRiverBet": 0.42617219505748644,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.43048160244671413
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.42823670448753043
   },
   {
    "hand": "J3s",
@@ -1662,11 +1662,11 @@
    "check": -0.2890963603926139,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.2914273039633817,
+   "simpleCheck": -0.29162387129044987,
    "optimalFlopBet": 0.40158163265306124,
    "optimalRiverBet": 0.43196010874284957,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.43305121863731616
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.4308063206781325
   },
   {
    "hand": "J4s",
@@ -1676,11 +1676,11 @@
    "check": -0.24252602842218937,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.24370797689748397,
+   "simpleCheck": -0.24389400060755947,
    "optimalFlopBet": 0.4136734693877551,
    "optimalRiverBet": 0.43273745020672466,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.4356208348279182
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.43337593686873455
   },
   {
    "hand": "J5s",
@@ -1690,11 +1690,11 @@
    "check": -0.1940618437294465,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.1945971508301692,
+   "simpleCheck": -0.19477154852914733,
    "optimalFlopBet": 0.42331632653061224,
    "optimalRiverBet": 0.4315223054994431,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.4381904510185203
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.4359455530593366
   },
   {
    "hand": "J6s",
@@ -1704,11 +1704,11 @@
    "check": -0.16364430705705318,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.16398174213199984,
+   "simpleCheck": -0.16414336248894199,
    "optimalFlopBet": 0.42928571428571427,
    "optimalRiverBet": 0.4240115444882856,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.4312394041798033
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.42899450622061963
   },
   {
    "hand": "J7s",
@@ -1718,11 +1718,11 @@
    "check": -0.03444510945128759,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.03486478845736147,
+   "simpleCheck": -0.03500586520875275,
    "optimalFlopBet": 0.4328061224489796,
    "optimalRiverBet": 0.42573868677905946,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.4338866129245408
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.4316417149653571
   },
   {
    "hand": "J8s",
@@ -1732,11 +1732,11 @@
    "check": 0.09631778965055032,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.09471533254346787,
+   "simpleCheck": 0.09459749322597875,
    "optimalFlopBet": 0.4574489795918367,
    "optimalRiverBet": 0.4067459268628821,
-   "simpleFlopBet": 0.43081632653061225,
-   "simpleRiverBet": 0.43270629991126885
+   "simpleFlopBet": 0.4330612244897959,
+   "simpleRiverBet": 0.43046140195208515
   },
   {
    "hand": "J9s",
@@ -1746,11 +1746,11 @@
    "check": 0.22819617320479618,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.22324053191203316,
+   "simpleCheck": 0.22315041750167955,
    "optimalFlopBet": 0.4931122448979592,
    "optimalRiverBet": 0.37298311276406954,
-   "simpleFlopBet": 0.43357142857142855,
-   "simpleRiverBet": 0.4278021106685042
+   "simpleFlopBet": 0.43581632653061225,
+   "simpleRiverBet": 0.42555721270932056
   },
   {
    "hand": "JTs",
@@ -1760,11 +1760,11 @@
    "check": 0.6019045305420685,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.5902952836812689,
+   "simpleCheck": 0.5902407655630861,
    "optimalFlopBet": 0.5396428571428571,
    "optimalRiverBet": 0.32673398591629066,
-   "simpleFlopBet": 0.4363265306122449,
-   "simpleRiverBet": 0.42292340803111256
+   "simpleFlopBet": 0.43857142857142856,
+   "simpleRiverBet": 0.42067851007192886
   },
   {
    "hand": "JJ",
@@ -1788,11 +1788,11 @@
    "check": 0.22429717262679466,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.2042257942085813,
+   "simpleCheck": 0.2044266686098654,
    "optimalFlopBet": 0.5133163265306122,
    "optimalRiverBet": 0.39987417168532535,
-   "simpleFlopBet": 0.35061224489795917,
-   "simpleRiverBet": 0.5573612867903869
+   "simpleFlopBet": 0.35285714285714287,
+   "simpleRiverBet": 0.5551163888312032
   },
   {
    "hand": "KJo",
@@ -1802,11 +1802,11 @@
    "check": 0.318648976740922,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.28883511076900137,
+   "simpleCheck": 0.2893260608787568,
    "optimalFlopBet": 0.6165306122448979,
    "optimalRiverBet": 0.33525269497253113,
-   "simpleFlopBet": 0.34744897959183674,
-   "simpleRiverBet": 0.6061937170798014
+   "simpleFlopBet": 0.3496938775510204,
+   "simpleRiverBet": 0.6039488191206177
   },
   {
    "hand": "AJo",
@@ -1816,11 +1816,11 @@
    "check": 0.4612609109463874,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.40634826802640994,
+   "simpleCheck": 0.40714601422101093,
    "optimalFlopBet": 0.8278571428571428,
    "optimalRiverBet": 0.155828314674621,
-   "simpleFlopBet": 0.3442857142857143,
-   "simpleRiverBet": 0.6394396722611339
+   "simpleFlopBet": 0.34653061224489795,
+   "simpleRiverBet": 0.6371947743019502
   },
   {
    "hand": "Q2s",
@@ -1830,11 +1830,11 @@
    "check": -0.22043997990248154,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.22465598131439946,
+   "simpleCheck": -0.22460287735479356,
    "optimalFlopBet": 0.4221938775510204,
    "optimalRiverBet": 0.44453609658479487,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.49410636409975645
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.4918614661405728
   },
   {
    "hand": "Q3s",
@@ -1844,11 +1844,11 @@
    "check": -0.17211494649719838,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.1754685615619275,
+   "simpleCheck": -0.17540489339009227,
    "optimalFlopBet": 0.42709183673469386,
    "optimalRiverBet": 0.45426022768034136,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5002913968547641
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.49804649889558045
   },
   {
    "hand": "Q4s",
@@ -1858,11 +1858,11 @@
    "check": -0.12444930697028622,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.127051837352551,
+   "simpleCheck": -0.12697762556372308,
    "optimalFlopBet": 0.43642857142857144,
    "optimalRiverBet": 0.4603081991353433,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.506848817232721
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5046039192735373
   },
   {
    "hand": "Q5s",
@@ -1872,11 +1872,11 @@
    "check": -0.07447005791075435,
    "best": "check",
    "simpleRaises": false,
-   "simpleCheck": -0.07629778233161344,
+   "simpleCheck": -0.07621194453168816,
    "optimalFlopBet": 0.44224489795918365,
    "optimalRiverBet": 0.4714632615303291,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5134062376106779
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5111613396514942
   },
   {
    "hand": "Q6s",
@@ -1886,11 +1886,11 @@
    "check": -0.028120218067323923,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.029672636329501664,
+   "simpleCheck": -0.029574021187540416,
    "optimalFlopBet": 0.44673469387755105,
    "optimalRiverBet": 0.4741538918990353,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5127438690554853
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5104989710963016
   },
   {
    "hand": "Q7s",
@@ -1900,11 +1900,11 @@
    "check": 0.007849858245655787,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.006320406628157388,
+   "simpleCheck": 0.006434184441023347,
    "optimalFlopBet": 0.45035714285714284,
    "optimalRiverBet": 0.474626857218373,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5109190281107818
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5086741301515981
   },
   {
    "hand": "Q8s",
@@ -1914,11 +1914,11 @@
    "check": 0.14019926973676808,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.13744433703456435,
+   "simpleCheck": 0.13758135228133245,
    "optimalFlopBet": 0.4753061224489796,
    "optimalRiverBet": 0.45262271328512904,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5061232985331042
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5038784005739206
   },
   {
    "hand": "Q9s",
@@ -1928,11 +1928,11 @@
    "check": 0.2740933106289919,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.266790123287282,
+   "simpleCheck": 0.2669538953220399,
    "optimalFlopBet": 0.5285714285714286,
    "optimalRiverBet": 0.398629339802526,
-   "simpleFlopBet": 0.43081632653061225,
-   "simpleRiverBet": 0.49723130510298474
+   "simpleFlopBet": 0.4330612244897959,
+   "simpleRiverBet": 0.4949864071438011
   },
   {
    "hand": "QTs",
@@ -1942,11 +1942,11 @@
    "check": 0.6480229414727234,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.6310838125063049,
+   "simpleCheck": 0.6312801838449057,
    "optimalFlopBet": 0.5796938775510204,
    "optimalRiverBet": 0.3452477864411259,
-   "simpleFlopBet": 0.43357142857142855,
-   "simpleRiverBet": 0.4883647982782382
+   "simpleFlopBet": 0.43581632653061225,
+   "simpleRiverBet": 0.48611990031905455
   },
   {
    "hand": "QJs",
@@ -1956,11 +1956,11 @@
    "check": 0.6935980730390998,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.675255824495021,
+   "simpleCheck": 0.6754892273563478,
    "optimalFlopBet": 0.5850510204081633,
    "optimalRiverBet": 0.3369006399969794,
-   "simpleFlopBet": 0.43357142857142855,
-   "simpleRiverBet": 0.4835090335856822
+   "simpleFlopBet": 0.43581632653061225,
+   "simpleRiverBet": 0.4812641356264985
   },
   {
    "hand": "QQ",
@@ -1984,11 +1984,11 @@
    "check": 0.37049039680346674,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.33801855392452723,
+   "simpleCheck": 0.33855710792151916,
    "optimalFlopBet": 0.6341326530612245,
    "optimalRiverBet": 0.3163480998319772,
-   "simpleFlopBet": 0.34744897959183674,
-   "simpleRiverBet": 0.6000854273254167
+   "simpleFlopBet": 0.3496938775510204,
+   "simpleRiverBet": 0.5978405293662331
   },
   {
    "hand": "AQo",
@@ -1998,11 +1998,11 @@
    "check": 0.5144081797605651,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.4545398190307996,
+   "simpleCheck": 0.4553853862207569,
    "optimalFlopBet": 0.8467346938775511,
    "optimalRiverBet": 0.13768817610300366,
-   "simpleFlopBet": 0.3442857142857143,
-   "simpleRiverBet": 0.636655968585399
+   "simpleFlopBet": 0.34653061224489795,
+   "simpleRiverBet": 0.6344110706262154
   },
   {
    "hand": "K2s",
@@ -2012,11 +2012,11 @@
    "check": -0.07991973998132317,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.0866278229538108,
+   "simpleCheck": -0.08629087515644275,
    "optimalFlopBet": 0.45005102040816325,
    "optimalRiverBet": 0.45129018860087977,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5251748192338915
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5229299212747078
   },
   {
    "hand": "K3s",
@@ -2026,11 +2026,11 @@
    "check": -0.03019461254352889,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": -0.03667247438038372,
+   "simpleCheck": -0.03632496237078634,
    "optimalFlopBet": 0.4603061224489796,
    "optimalRiverBet": 0.4507597840246182,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5318406992769356
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5295958013177519
   },
   {
    "hand": "K4s",
@@ -2040,11 +2040,11 @@
    "check": 0.018917021934499137,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.01263064145008773,
+   "simpleCheck": 0.012988697076677783,
    "optimalFlopBet": 0.4736224489795918,
    "optimalRiverBet": 0.44801261114991786,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5381341916970304
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5358892937378467
   },
   {
    "hand": "K5s",
@@ -2054,11 +2054,11 @@
    "check": 0.07063821920997816,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.06456942883115739,
+   "simpleCheck": 0.06493911046884485,
    "optimalFlopBet": 0.4893877551020408,
    "optimalRiverBet": 0.4443718495723914,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5444276841171252
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5421827861579415
   },
   {
    "hand": "K6s",
@@ -2068,11 +2068,11 @@
    "check": 0.11647985199462006,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.11082903593697171,
+   "simpleCheck": 0.11121149491669513,
    "optimalFlopBet": 0.5010204081632653,
    "optimalRiverBet": 0.44237837225547016,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5505257792293605
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5482808812701769
   },
   {
    "hand": "K7s",
@@ -2082,11 +2082,11 @@
    "check": 0.16717183440247402,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.16109259380033794,
+   "simpleCheck": 0.1614902154509661,
    "optimalFlopBet": 0.5242857142857142,
    "optimalRiverBet": 0.4281399969793653,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5499931091770658
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5477482112178822
   },
   {
    "hand": "K8s",
@@ -2096,11 +2096,11 @@
    "check": 0.20908557039556774,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.20179223301183788,
+   "simpleCheck": 0.2022094086954996,
    "optimalFlopBet": 0.5470918367346939,
    "optimalRiverBet": 0.41399847080367763,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5481682682323623
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5459233702731786
   },
   {
    "hand": "K9s",
@@ -2110,11 +2110,11 @@
    "check": 0.34475050935071416,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.33185119088142084,
+   "simpleCheck": 0.3322951233530723,
    "optimalFlopBet": 0.6196428571428572,
    "optimalRiverBet": 0.3397824671034001,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.539540202760105
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5372953048009212
   },
   {
    "hand": "KTs",
@@ -2124,11 +2124,11 @@
    "check": 0.7212971193747592,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.6957890760767066,
+   "simpleCheck": 0.6962643170266734,
    "optimalFlopBet": 0.6606632653061224,
    "optimalRiverBet": 0.29811172572636824,
-   "simpleFlopBet": 0.43081632653061225,
-   "simpleRiverBet": 0.5309376238932205
+   "simpleFlopBet": 0.4330612244897959,
+   "simpleRiverBet": 0.5286927259340369
   },
   {
    "hand": "KJs",
@@ -2138,11 +2138,11 @@
    "check": 0.7675870945861034,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.7395673175810284,
+   "simpleCheck": 0.7400797262111191,
    "optimalFlopBet": 0.6687755102040817,
    "optimalRiverBet": 0.2860111102720459,
-   "simpleFlopBet": 0.43081632653061225,
-   "simpleRiverBet": 0.525016519096075
+   "simpleFlopBet": 0.4330612244897959,
+   "simpleRiverBet": 0.5227716211368914
   },
   {
    "hand": "KQs",
@@ -2152,11 +2152,11 @@
    "check": 0.8164077785348435,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.7861088142178072,
+   "simpleCheck": 0.7866669542848675,
    "optimalFlopBet": 0.6882142857142857,
    "optimalRiverBet": 0.2651901111971153,
-   "simpleFlopBet": 0.43081632653061225,
-   "simpleRiverBet": 0.5198401895448281
+   "simpleFlopBet": 0.4330612244897959,
+   "simpleRiverBet": 0.5175952915856444
   },
   {
    "hand": "KK",
@@ -2180,11 +2180,11 @@
    "check": 0.5689276916019681,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.5042581385986963,
+   "simpleCheck": 0.5051619273785257,
    "optimalFlopBet": 0.8614285714285714,
    "optimalRiverBet": 0.12580377201759518,
-   "simpleFlopBet": 0.3442857142857143,
-   "simpleRiverBet": 0.6338835922898299
+   "simpleFlopBet": 0.34653061224489795,
+   "simpleRiverBet": 0.6316386943306462
   },
   {
    "hand": "A2s",
@@ -2194,11 +2194,11 @@
    "check": 0.16651751667785103,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.1509695546623325,
+   "simpleCheck": 0.15160502669657552,
    "optimalFlopBet": 0.5760204081632653,
    "optimalRiverBet": 0.3799279767411127,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5495006513243595
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5472557533651758
   },
   {
    "hand": "A3s",
@@ -2208,11 +2208,11 @@
    "check": 0.22137183255271667,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.2031779027984922,
+   "simpleCheck": 0.20382393904496454,
    "optimalFlopBet": 0.6044897959183674,
    "optimalRiverBet": 0.3576141705525874,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5518921444618551
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5496472465026714
   },
   {
    "hand": "A4s",
@@ -2222,11 +2222,11 @@
    "check": 0.2741050002850915,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.25325825101436306,
+   "simpleCheck": 0.2539148308778281,
    "optimalFlopBet": 0.6246938775510205,
    "optimalRiverBet": 0.34454223224905134,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5543006286695992
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5520557307104155
   },
   {
    "hand": "A5s",
@@ -2236,11 +2236,11 @@
    "check": 0.32974716829798106,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.3056511952102345,
+   "simpleCheck": 0.3063194010847969,
    "optimalFlopBet": 0.645969387755102,
    "optimalRiverBet": 0.33044757310879946,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5567091128773434
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5544642149181597
   },
   {
    "hand": "A6s",
@@ -2250,11 +2250,11 @@
    "check": 0.2856993079237694,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.26739534783161717,
+   "simpleCheck": 0.26807459332512196,
    "optimalFlopBet": 0.637704081632653,
    "optimalRiverBet": 0.34436580830296964,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5614266835318772
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5591817855726935
   },
   {
    "hand": "A7s",
@@ -2264,11 +2264,11 @@
    "check": 0.35195099253784995,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.3299347251613341,
+   "simpleCheck": 0.3306291333257436,
    "optimalFlopBet": 0.6856122448979591,
    "optimalRiverBet": 0.29749325076931793,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5637841945288754
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5615392965696917
   },
   {
    "hand": "A8s",
@@ -2278,11 +2278,11 @@
    "check": 0.4096191051617575,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.383251374922744,
+   "simpleCheck": 0.3839653371201871,
    "optimalFlopBet": 0.7238775510204082,
    "optimalRiverBet": 0.2596280843512243,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5637841945288754
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5615392965696917
   },
   {
    "hand": "A9s",
@@ -2292,11 +2292,11 @@
    "check": 0.45823991858397833,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.427097022395985,
+   "simpleCheck": 0.427836032977932,
    "optimalFlopBet": 0.7731632653061224,
    "optimalRiverBet": 0.20957734712756518,
-   "simpleFlopBet": 0.4253061224489796,
-   "simpleRiverBet": 0.5614266835318772
+   "simpleFlopBet": 0.4275510204081633,
+   "simpleRiverBet": 0.5591817855726935
   },
   {
    "hand": "ATs",
@@ -2306,11 +2306,11 @@
    "check": 0.8378836690929,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.790951204306464,
+   "simpleCheck": 0.7917215233667262,
    "optimalFlopBet": 0.818469387755102,
    "optimalRiverBet": 0.16497493817138326,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5567091128773434
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5544642149181597
   },
   {
    "hand": "AJs",
@@ -2320,11 +2320,11 @@
    "check": 0.8860204801512453,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.8349297159421053,
+   "simpleCheck": 0.8357374439614099,
    "optimalFlopBet": 0.8443367346938776,
    "optimalRiverBet": 0.13919835186618587,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5543006286695992
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5520557307104155
   },
   {
    "hand": "AQs",
@@ -2334,11 +2334,11 @@
    "check": 0.9356907065996863,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.8805558322563741,
+   "simpleCheck": 0.8814094968068802,
    "optimalFlopBet": 0.8607142857142858,
    "optimalRiverBet": 0.12267382808812702,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5518921444618551
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5496472465026714
   },
   {
    "hand": "AKs",
@@ -2348,11 +2348,11 @@
    "check": 0.9867402297055397,
    "best": "raise4",
    "simpleRaises": true,
-   "simpleCheck": 0.9276845200194281,
+   "simpleCheck": 0.9285940291262413,
    "optimalFlopBet": 0.8682142857142857,
    "optimalRiverBet": 0.11868857256130945,
-   "simpleFlopBet": 0.42806122448979594,
-   "simpleRiverBet": 0.5495006513243595
+   "simpleFlopBet": 0.4303061224489796,
+   "simpleRiverBet": 0.5472557533651758
   },
   {
    "hand": "AA",

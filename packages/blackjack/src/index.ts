@@ -12,3 +12,5 @@ export * from './presets.ts';
 export * from './results.ts';
 export * from './simulate.ts';
 export * from './grid.ts';
+export * from './counting.ts';
+export * from './deviations.ts';

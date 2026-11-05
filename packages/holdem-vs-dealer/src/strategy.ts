@@ -4,8 +4,9 @@ import { categoryOf, evaluateMasks, evaluateWithOne, evaluateWithTwo, HandCatego
 /*
  * The simple strategy published by the Wizard of Odds (Michael Shackleford) for this game, whose rules
  * follow the casino game sold as Ultimate Texas Hold'em. Source: wizardofodds.com, "Ultimate Texas Hold
- * 'Em", section "Wizard strategy", which gives it a house edge of 2.43% (vs 2.185% for optimal play);
- * scripts/compute-exact.ts reproduces that figure by exhaustive enumeration.
+ * 'Em", section "Wizard strategy", which gives it a house edge of 2.43% and an element of risk of 0.58%
+ * (vs 2.185% for optimal play). Exhaustive enumeration (scripts/compute-exact.ts) of the strategy as
+ * read below gives 2.433% and 0.584%.
  *
  * Before the flop, raise 4x with:
  *   - any pair 3-3 or higher (check 2-2)
@@ -14,7 +15,7 @@ import { categoryOf, evaluateMasks, evaluateWithOne, evaluateWithTwo, HandCatego
  *   - Q-6 suited or better; Q-8 offsuit or better
  *   - J-8 suited or better; J-T offsuit
  * After the flop, bet 2x with:
- *   - two pair or better (hole cards must help: trips on the board alone don't count)
+ *   - two pair or better (as published: trips on the flop alone count)
  *   - a hidden pair, except pocket deuces (hidden = at least one of the pair's cards is a hole card)
  *   - four to a flush, including a hole card of that suit ranked 10 or higher
  * After the river, bet 1x with:
@@ -22,8 +23,10 @@ import { categoryOf, evaluateMasks, evaluateWithOne, evaluateWithTwo, HandCatego
  *   - fewer than 21 dealer "outs" that beat you; otherwise fold.
  *
  * Interpretation notes, where the source leaves room:
- *   - "Hidden pair or better" at the river: a pocket pair, a hole card matching a board rank, or a
- *     straight or better that beats the board alone.
+ *   - "Hidden pair or better" at the river: the hole cards make a better kind of hand than the board
+ *     alone (pocket 3s on A-A-K-K don't count). Of the readings tried, this one together with the
+ *     literal flop "two pair or better" is the only one that reproduces both published figures; the
+ *     others land between 2.38% and 2.46%.
  *   - A dealer out is an unseen card that, added to the board, makes a hand that beats yours (the
  *     source: "a dealer hole card that will cause you to lose"; ties don't count). There are 45 unseen
  *     cards.
@@ -50,13 +53,11 @@ export function simplePreflopRaises(hole: readonly Card[]): boolean {
 export function simpleFlopBets(hole: readonly Card[], flop: readonly Card[]): boolean {
   const masks = suitMasks([...hole, ...flop]);
   const value = evaluateMasks(masks[0], masks[1], masks[2], masks[3]);
-  const flopMasks = suitMasks(flop);
-  const flopValue = evaluateMasks(flopMasks[0], flopMasks[1], flopMasks[2], flopMasks[3]);
-  if (categoryOf(value) >= HandCategory.TwoPair && categoryOf(value) > categoryOf(flopValue)) return true;
+  if (categoryOf(value) >= HandCategory.TwoPair) return true;
 
   const ra = hole[0] >> 2;
   const rb = hole[1] >> 2;
-  const flopRanks = flopMasks[0] | flopMasks[1] | flopMasks[2] | flopMasks[3];
+  const flopRanks = flop.reduce((ranks, c) => ranks | (1 << (c >> 2)), 0);
   if (ra === rb ? ra > 0 : ((flopRanks >> ra) & 1) === 1 || ((flopRanks >> rb) & 1) === 1) return true;
 
   for (let suit = 0; suit < 4; suit++) {
@@ -69,14 +70,11 @@ export function simpleFlopBets(hole: readonly Card[], flop: readonly Card[]): bo
 }
 
 /**
- * Hidden pair or better at the river, from precomputed pieces (the enumeration calls this in its hot
- * loop): the hole cards, the board's rank mask, the player's value and the board's own value.
+ * Hidden pair or better at the river, from the player's value and the board's own value (the
+ * enumeration calls this in its hot loop): the hole cards make a better kind of hand than the board.
  */
-export function hasHiddenPairOrBetter(a: Card, b: Card, boardRanks: number, player: HandValue, board: HandValue): boolean {
-  const ra = a >> 2;
-  const rb = b >> 2;
-  if (ra === rb || ((boardRanks >> ra) & 1) === 1 || ((boardRanks >> rb) & 1) === 1) return true;
-  return categoryOf(player) >= HandCategory.Straight && player > board;
+export function hasHiddenPairOrBetter(player: HandValue, board: HandValue): boolean {
+  return categoryOf(player) > categoryOf(board);
 }
 
 /** Unseen cards (of 45) that, added to the board, beat the player's hand. */
@@ -94,7 +92,6 @@ export function simpleRiverBets(hole: readonly Card[], board: readonly Card[]): 
   const masks = suitMasks(board);
   const player = evaluateWithTwo(masks, hole[0], hole[1]);
   const boardValue = evaluateMasks(masks[0], masks[1], masks[2], masks[3]);
-  const boardRanks = masks[0] | masks[1] | masks[2] | masks[3];
-  if (hasHiddenPairOrBetter(hole[0], hole[1], boardRanks, player, boardValue)) return true;
+  if (hasHiddenPairOrBetter(player, boardValue)) return true;
   return dealerOuts(hole, board) < SIMPLE_STRATEGY_OUTS_LIMIT;
 }

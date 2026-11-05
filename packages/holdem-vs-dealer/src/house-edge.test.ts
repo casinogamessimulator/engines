@@ -12,11 +12,10 @@ describe('stored house edges', () => {
     expect(HOUSE_EDGE.optimal.elementOfRisk).toBeCloseTo(0.00526, 5);
   });
 
-  it('simple strategy: close to the published 2.43% and 0.58%', () => {
-    // The source doesn't say how its figure was computed. Enumerating the strategy as written in
-    // strategy.ts (which lists the readings it takes where the source leaves room) gives 2.40%.
-    expect(Math.abs(HOUSE_EDGE.simple.houseEdge - 0.0243)).toBeLessThan(0.0005);
-    expect(Math.abs(HOUSE_EDGE.simple.elementOfRisk - 0.0058)).toBeLessThan(0.0002);
+  it('simple strategy: matches the published 2.43% and 0.58%', () => {
+    // With the readings listed in strategy.ts, the enumeration gives 2.433% and 0.584%.
+    expect((HOUSE_EDGE.simple.houseEdge * 100).toFixed(2)).toBe('2.43');
+    expect((HOUSE_EDGE.simple.elementOfRisk * 100).toFixed(2)).toBe('0.58');
     expect(HOUSE_EDGE.simple.houseEdge).toBeGreaterThan(HOUSE_EDGE.optimal.houseEdge);
   });
 

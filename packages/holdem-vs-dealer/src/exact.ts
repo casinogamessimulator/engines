@@ -104,7 +104,6 @@ export function analyzeFlop(flop: readonly Card[]): FlopAnalysis {
       board[rest[t] & 3] |= 1 << (rest[t] >> 2);
       board[rest[r] & 3] |= 1 << (rest[r] >> 2);
       const boardValue = evaluateMasks(board[0], board[1], board[2], board[3]);
-      const boardRanks = board[0] | board[1] | board[2] | board[3];
 
       // Board plus one card, for counting the simple strategy's dealer outs.
       for (let c = 0, k = 0; c < 49; c++) {
@@ -200,7 +199,7 @@ export function analyzeFlop(flop: readonly Card[]): FlopAnalysis {
           optimalRiverBets[h]++;
         } else optimalRiver[h] += FOLD_SCALED;
 
-        let simpleBets = hasHiddenPairOrBetter(rest[i], rest[j], boardRanks, v, boardValue);
+        let simpleBets = hasHiddenPairOrBetter(v, boardValue);
         if (!simpleBets) {
           // Outs: board-plus-one values above the player's, not counting the player's own two cards.
           let lo = 0;
